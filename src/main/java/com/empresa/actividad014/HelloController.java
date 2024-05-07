@@ -1,7 +1,7 @@
 package com.empresa.actividad014;
 
 import javafx.fxml.FXML;
-import javafx.scene.control.Label;
+import javafx.scene.control.*;
 
 public class HelloController {
     @FXML
